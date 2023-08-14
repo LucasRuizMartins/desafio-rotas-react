@@ -1,0 +1,16 @@
+.product-bar {
+  background-color: var(--bg-tertiary);
+  height: 60px;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.active-bar {
+    margin: 20px;
+    font-weight: 700;
+}
+.deactive-bar {
+    margin: 20px}
